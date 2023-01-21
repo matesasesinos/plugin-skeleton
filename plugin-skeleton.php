@@ -8,3 +8,6 @@
  * Author URI: https://matecito.ar
  * Text Domain: ske
  */
+
+require __DIR__ . '/vendor/autoload.php';
+
